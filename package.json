@@ -1,0 +1,14 @@
+{
+  "name": "form-backend",
+  "version": "1.0.0",
+  "description": "This is an Assignment solution given by Gypsee Automotive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin Chandani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
